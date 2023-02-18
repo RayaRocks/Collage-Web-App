@@ -1,0 +1,23 @@
+body
+{
+  color: white;
+  background: purple;
+}
+#one
+  {
+    border: 7px dashed black;
+    height: 500px;
+    width: 700px;
+  }
+  #two
+  {
+    border: 7px dashed black;
+    height: 500px;
+    width: 500px;
+  }
+  #three
+  {
+    border: 7px dashed black;
+    height: 500px;
+    width: 500px;
+  }
